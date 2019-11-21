@@ -1,5 +1,5 @@
 <h1>Analyse UML Express Food</h1>
-<p>Module Open Classroom : Design the technical solution of an online catering application, Express Food</p>
+<p>Open Classroom Module : Design the technical solution of an online catering application, Express Food</p>
 
 <h2>Deliverable</h2>
 <ul>
